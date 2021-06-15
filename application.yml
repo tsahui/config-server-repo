@@ -1,10 +1,10 @@
 my:
-	greeting: Hello World
-	list:
-		values: one, two, three
+    greeting: Hello World
+    list:
+        values: one, two, three
 
 db:
-	connection: connection-string-here
-	host: 127.0.0.1
-	port: 1200
+    connection: connection-string-here
+    host: 127.0.0.1
+    port: 1200
 
